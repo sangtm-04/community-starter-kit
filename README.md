@@ -1,11 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
-## What it does?
 A GitHub App built with probot that celebrates new user activity within your repository.
-
-FEATURES PLACEHOLDER
 
 ## ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
