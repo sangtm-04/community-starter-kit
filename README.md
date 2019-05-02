@@ -2,6 +2,7 @@
 
 DESCRIPTION PLACEHOLDER
 
+## What it does?
 A GitHub App built with probot that celebrates new user activity within your repository.
 
 FEATURES PLACEHOLDER
